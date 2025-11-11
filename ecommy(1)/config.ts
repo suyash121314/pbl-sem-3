@@ -11,4 +11,4 @@
  * The environment running this application is responsible for providing the `API_KEY`.
  * This application is already configured to use it automatically.
  */
-export const API_KEY = process.env.API_KEY as string;
+export const API_KEY = "AIzaSyAcK2RJcvfDsEm0na4G65O2ucP4Ial2c-0" as string;
